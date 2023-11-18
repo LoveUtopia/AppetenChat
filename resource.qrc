@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/resource/images/register.png</file>
+        <file>src/resource/tx/0.png</file>
+        <file>src/resource/tx/1.png</file>
+        <file>src/resource/tx/2.png</file>
+        <file>src/resource/tx/3.png</file>
+        <file>src/resource/tx/4.png</file>
+        <file>src/resource/tx/5.png</file>
+        <file>src/resource/tx/6.png</file>
+        <file>src/resource/tx/7.png</file>
+        <file>src/resource/tx/8.png</file>
+        <file>src/resource/tx/9.png</file>
+        <file>src/resource/tx/10.png</file>
+        <file>src/resource/tx/11.png</file>
+        <file>src/resource/tx/12.png</file>
+        <file>src/resource/tx/13.png</file>
+        <file>src/resource/tx/14.png</file>
+        <file>src/resource/tx/15.png</file>
+        <file>src/resource/tx/16.png</file>
+        <file>src/resource/tx/17.png</file>
+        <file>src/resource/tx/18.png</file>
+        <file>src/resource/tx/19.png</file>
+        <file>src/resource/tx/20.png</file>
+        <file>src/resource/tx/21.png</file>
+        <file>src/resource/tx/22.png</file>
+        <file>src/resource/tx/23.png</file>
+        <file>src/resource/tx/24.png</file>
+        <file>src/resource/tx/25.png</file>
+        <file>src/resource/tx/26.png</file>
+        <file>src/resource/tx/27.png</file>
+        <file>src/resource/tx/28.png</file>
+        <file>src/resource/tx/29.png</file>
+        <file>src/resource/tx/30.png</file>
+        <file>src/resource/tx/31.png</file>
+        <file>src/resource/tx/32.png</file>
+        <file>src/resource/tx/33.png</file>
+        <file>src/resource/tx/34.png</file>
+        <file>src/resource/tx/35.png</file>
+        <file>../MusicPlayer/images/logo1.png</file>
+        <file>src/resource/images/cyberlogoWord.png</file>
+        <file>src/resource/images/logo_real.png</file>
+        <file>src/resource/images/cyberlogoWord.png_swing.gif</file>
+        <file>src/resource/images/delete.png</file>
+    </qresource>
+</RCC>
